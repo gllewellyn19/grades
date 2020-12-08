@@ -1,0 +1,3 @@
+INSERT (917) 70 16 Sam
+INSERT (917) cannot insert because record exists
+LOOKUP (917) 70 16 Sam

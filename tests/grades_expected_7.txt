@@ -1,0 +1,94 @@
+LOOKUP (12) record does not exist
+DELETE (19) cannot delete because record does not exist
+LOOKUP (8) record does not exist
+INSERT (13) 80 67 wUJv
+INSERT (22) 77 69 VJYtPcADdNK
+INSERT (15) 47 46 rPKWEqpvnxAX
+INSERT (6) 29 49 QtC
+LOOKUP (15) 47 46 rPKWEqpvnxAX
+INSERT (6) cannot insert because record exists
+LOOKUP (13) 80 67 wUJv
+LOOKUP (15) 47 46 rPKWEqpvnxAX
+INSERT (15) cannot insert because record exists
+DELETE (10) cannot delete because record does not exist
+INSERT (12) 22 82 tqsiEiwA
+LOOKUP (22) 77 69 VJYtPcADdNK
+DELETE (12) 22 82 tqsiEiwA
+INSERT (14) 62 61 ctcfFKKZN
+DELETE (0) cannot delete because record does not exist
+LOOKUP (15) 47 46 rPKWEqpvnxAX
+LOOKUP (15) 47 46 rPKWEqpvnxAX
+LOOKUP (6) 29 49 QtC
+LOOKUP (13) 80 67 wUJv
+LOOKUP (14) 62 61 ctcfFKKZN
+LOOKUP (15) 47 46 rPKWEqpvnxAX
+LOOKUP (22) 77 69 VJYtPcADdNK
+INSERT (10) 83 47 ya
+DELETE (13) 80 67 wUJv
+INSERT (17) 95 42 zrOqitm
+INSERT (21) 76 85 yF
+LOOKUP (6) 29 49 QtC
+LOOKUP (10) 83 47 ya
+LOOKUP (14) 62 61 ctcfFKKZN
+LOOKUP (15) 47 46 rPKWEqpvnxAX
+LOOKUP (17) 95 42 zrOqitm
+LOOKUP (21) 76 85 yF
+LOOKUP (22) 77 69 VJYtPcADdNK
+LOOKUP (17) 95 42 zrOqitm
+INSERT (11) 78 49 FbEvjIcP
+INSERT (20) 85 2 dQODeXySx
+LOOKUP (11) 78 49 FbEvjIcP
+INSERT (26) 75 58 jrsRQudtlTbe
+INSERT (6) cannot insert because record exists
+LOOKUP (14) 62 61 ctcfFKKZN
+DELETE (22) 77 69 VJYtPcADdNK
+INSERT (13) 30 37 ZdXWI
+DELETE (13) 30 37 ZdXWI
+LOOKUP (6) 29 49 QtC
+LOOKUP (10) 83 47 ya
+LOOKUP (11) 78 49 FbEvjIcP
+LOOKUP (14) 62 61 ctcfFKKZN
+LOOKUP (15) 47 46 rPKWEqpvnxAX
+LOOKUP (17) 95 42 zrOqitm
+LOOKUP (20) 85 2 dQODeXySx
+LOOKUP (21) 76 85 yF
+LOOKUP (26) 75 58 jrsRQudtlTbe
+LOOKUP (6) 29 49 QtC
+LOOKUP (10) 83 47 ya
+LOOKUP (11) 78 49 FbEvjIcP
+LOOKUP (14) 62 61 ctcfFKKZN
+LOOKUP (15) 47 46 rPKWEqpvnxAX
+LOOKUP (17) 95 42 zrOqitm
+LOOKUP (20) 85 2 dQODeXySx
+LOOKUP (21) 76 85 yF
+LOOKUP (26) 75 58 jrsRQudtlTbe
+INSERT (10) cannot insert because record exists
+LOOKUP (6) 29 49 QtC
+LOOKUP (10) 83 47 ya
+LOOKUP (11) 78 49 FbEvjIcP
+LOOKUP (14) 62 61 ctcfFKKZN
+LOOKUP (15) 47 46 rPKWEqpvnxAX
+LOOKUP (17) 95 42 zrOqitm
+LOOKUP (20) 85 2 dQODeXySx
+LOOKUP (21) 76 85 yF
+LOOKUP (26) 75 58 jrsRQudtlTbe
+INSERT (5) 96 7 pmoKEI
+INSERT (20) cannot insert because record exists
+LOOKUP (10) 83 47 ya
+INSERT (8) 94 40 y
+INSERT (24) 50 29 TKtW
+INSERT (17) cannot insert because record exists
+DELETE (17) 95 42 zrOqitm
+LOOKUP (5) 96 7 pmoKEI
+LOOKUP (6) 29 49 QtC
+LOOKUP (8) 94 40 y
+LOOKUP (10) 83 47 ya
+LOOKUP (11) 78 49 FbEvjIcP
+LOOKUP (14) 62 61 ctcfFKKZN
+LOOKUP (15) 47 46 rPKWEqpvnxAX
+LOOKUP (20) 85 2 dQODeXySx
+LOOKUP (21) 76 85 yF
+LOOKUP (24) 50 29 TKtW
+LOOKUP (26) 75 58 jrsRQudtlTbe
+DELETE (16) cannot delete because record does not exist
+INSERT (8) cannot insert because record exists
